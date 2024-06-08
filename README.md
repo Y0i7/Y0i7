@@ -31,9 +31,9 @@
 
 <h3 align="left">Connect with me📧:</h3>
 <p align="left">
-<a href="https://twitter.com/yoi_470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoi_470" height="30" width="40" /></a>
-<a href="https://instagram.com/_orye_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_orye_" height="30" width="40" /></a>
-<a href="https://discord.gg/yoi_tm_61057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="30" width="40" /></a>
+<a href="https://x.com/Yoi_470?t=VKMkZroGeyozpZ4uxwQaeg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoi_470" height="30" width="40" /></a>
+<a href="https://www.instagram.com/y0i473?igsh=a21oM3NmdG5neHRo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOI" height="30" width="40" /></a>
+<a href="https://discord.com/invite/a53EUhhH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools🦾:</h3>
