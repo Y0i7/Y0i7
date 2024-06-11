@@ -1,13 +1,14 @@
 [![MasterHead](https://d.furaffinity.net/art/maokaw/1633285113/1633285102.maokaw_fae_big.gif)](https://discord.com/invite/pqfvqh44)
 <h1 align="center">Hi ✨❤, I'm Yoi</h1>
 <h3 align="center">A passionate Programer from Colombia</h3>
-<img align="center" alt="Coding" width="400" src="https://truecolorsunited.org/wp-content/uploads/The-Matrix-code-animated-1.gif">
+<img align="center" alt="Coding" width="1010" height="250" src="https://truecolorsunited.org/wp-content/uploads/The-Matrix-code-animated-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=y0i7&label=Profile%20views&color=0e75b6&style=flat" alt="y0i7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7" alt="y0i7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7" alt="y0i7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yoi_470" target="blank"><img src="https://img.shields.io/twitter/follow/yoi_470?logo=twitter&style=for-the-badge" alt="yoi_470" /></a> </p>
+<p align="center"> <a href="https://twitter.com/yoi_470" target="blank"><img src="https://img.shields.io/twitter/follow/yoi_470?logo=twitter&style=for-the-badge" alt="yoi_470" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=y0i7&label=Profile%20views&color=0e75b6&style=flat" alt="y0i7" /> </p>
+<br>
 
 - 🔭 I’m currently working on [Spring Java proyects](https://github.com/Y0i7/Spring_Jv_p)
 
@@ -41,10 +42,13 @@
 
 <h3 align="left">Support Me ❤:</h3>
 <p><a href="https://buymeacoffee.com/oryees27s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
-
+<hr>
 <h3 align="left">Stats📈:</h3>
 <div>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0i7&show_icons=true&locale=en&layout=compact" alt="y0i7" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0i7&show_icons=true&locale=en" alt="y0i7" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0i7&" alt="y0i7" /></p>
 </div>
+<hr>
+<img align="center" alt="Coding" width="1010" height="250" src="https://truecolorsunited.org/wp-content/uploads/The-Matrix-code-animated-1.gif">
+
