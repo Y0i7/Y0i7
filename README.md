@@ -11,7 +11,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7" alt="y0i7" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/yoi_470" target="blank"><img src="https://img.shields.io/twitter/follow/yoi_470?logo=twitter&style=for-the-badge" alt="yoi_470" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/yoi_470" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/2048px-Twitter_Bird.svg.png" alt="yoi_470" width="40" height="40" />
+  </a>
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=y0i7&label=Profile%20views&color=0e75b6&style=flat" alt="y0i7" /> </p>
 <br>
 
