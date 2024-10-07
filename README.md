@@ -53,31 +53,33 @@
   </a> 
 </p>
 
-
-<h3 align="left">Frameworks ⚙️:</h3>
-<p align="left"> 
+<h3 align="left">Frameworks 🛠️:</h3>
+<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
 
-<h3 align="left">Databases 🗄️:</h3>
-<p align="left"> 
+<h3 align="left">Databases 💾:</h3>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
 
 
