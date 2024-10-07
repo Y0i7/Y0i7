@@ -1,9 +1,10 @@
 [![MasterHead](https://d.furaffinity.net/art/maokaw/1633285113/1633285102.maokaw_fae_big.gif)](https://discord.com/invite/pqfvqh44)
 <h1 align="center">Hi ✨❤, I'm Yoi</h1>
-<h3 align="left">🇨🇴 Proudly from Colombia!</h3>
-<p align="left">
+<h3 align="center">🇨🇴 Proudly from Colombia!</h3>
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Flag of Colombia" width="100" height="60"/>
 </p>
+
 <img align="center" alt="Coding" width="1010" height="250" src="https://truecolorsunited.org/wp-content/uploads/The-Matrix-code-animated-1.gif">
 
 
