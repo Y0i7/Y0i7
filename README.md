@@ -5,20 +5,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Flag of Colombia" width="100" height="60"/>
 </p>
 
-<div style="width: 100%; height: 10px; background-color: #FFD700;"></div>
-<div style="width: 100%; height: 10px; background-color: #3C3B3F;"></div>
-<div style="width: 100%; height: 10px; background-color: #D52B1E;"></div>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7" alt="y0i7" /></a> </p>
 
-<p align="center">
-  <a href="https://twitter.com/yoi_470" target="blank">
-    <img src="https://simpleicons.org/icons/twitter.svg" alt="yoi_470" width="40" height="40" />
-  </a>
-</p>
+<p align="center"> <a href="https://twitter.com/yoi_470" target="blank"><img src="https://img.shields.io/twitter/follow/yoi_470?logo=twitter&style=for-the-badge" alt="yoi_470" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=y0i7&label=Profile%20views&color=0e75b6&style=flat" alt="y0i7" /> </p>
 <br>
+
+<hr style="border: 3px solid #FFA500; margin: 20px 0;">
 
 - 🔭 I’m currently working on [Spring Java proyects](https://github.com/Y0i7/Spring_Jv_p)
 
@@ -38,17 +32,19 @@
 
 - 📄 Know about my experiences [https://github.com/Y0i7](https://github.com/Y0i7)
 
-- ⚡ Fun fact **UwU✨**
+- ⚡ Fun fact **Proud Furry Programmer✨**
 
-<h3 align="left">Connect with me📧:</h3>
-<p align="left">
+<h3 align="center">Connect with me📧:</h3>
+<p align="center">
 <a href="https://x.com/Yoi_470?t=VKMkZroGeyozpZ4uxwQaeg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoi_470" height="30" width="40" /></a>
 <a href="https://www.instagram.com/y0i473?igsh=a21oM3NmdG5neHRo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOI" height="30" width="40" /></a>
 <a href="https://discord.com/invite/a53EUhhH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages 🦾:</h3>
-<p align="left"> 
+<hr style="border: 3px solid #FFA500; margin: 20px 0;">
+
+<h3 align="center">Languages 🦾:</h3>
+<p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
@@ -63,8 +59,8 @@
   </a> 
 </p>
 
-<h3 align="left">Frameworks 🛠️:</h3>
-<p align="left">
+<h3 align="center">Frameworks 🛠️:</h3>
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>
@@ -79,8 +75,8 @@
   </a>
 </p>
 
-<h3 align="left">Databases 💾:</h3>
-<p align="left">
+<h3 align="center">Databases 💾:</h3>
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
