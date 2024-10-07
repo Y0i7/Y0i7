@@ -5,7 +5,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Flag of Colombia" width="100" height="60"/>
 </p>
 
-<div style="width: 100%; height: 5px; background: linear-gradient(to right, #FFD700, #3C3B3F, #D52B1E);"></div>
+<div style="width: 100%; height: 10px; background-color: #FFD700;"></div>
+<div style="width: 100%; height: 10px; background-color: #3C3B3F;"></div>
+<div style="width: 100%; height: 10px; background-color: #D52B1E;"></div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7" alt="y0i7" /></a> </p>
 
