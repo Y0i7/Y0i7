@@ -41,6 +41,7 @@
 <a href="https://discord.com/invite/a53EUhhH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="30" width="40" /></a>
 </p>
 
+
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
 
 <h3 align="center">Languages 🦾:</h3>
@@ -58,6 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
   </a> 
 </p>
+<br>
 
 <h3 align="center">Frameworks 🛠️:</h3>
 <p align="center">
@@ -74,6 +76,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
 </p>
+<br>
 
 <h3 align="center">Databases 💾:</h3>
 <p align="center">
@@ -89,10 +92,11 @@
 </p>
 
 
-<h3 align="left">Support Me ❤:</h3>
-<p><a href="https://buymeacoffee.com/oryees27s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
+<h3 align="right">Support Me ❤:</h3>
+<p><a href="https://buymeacoffee.com/oryees27s"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
 <hr>
-<h3 align="left">Stats📈:</h3>
+
+<h3 align="center">Stats📈:</h3>
 <div>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0i7&show_icons=true&locale=en&layout=compact" alt="y0i7" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0i7&show_icons=true&locale=en" alt="y0i7" /></p>
