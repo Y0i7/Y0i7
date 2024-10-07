@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://twitter.com/yoi_470" target="blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/2048px-Twitter_Bird.svg.png](https://pngimg.com/d/paw_PNG62.png)" alt="yoi_470" width="40" height="40" />
+    <img src="https://simpleicons.org/icons/twitter.svg" alt="yoi_470" width="40" height="40" />
   </a>
 </p>
 
