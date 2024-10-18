@@ -18,7 +18,7 @@
 </div>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7" alt="y0i7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7&show_icons=true&theme=radical" alt="y0i7" /></a> </p>
 <br>
 
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
