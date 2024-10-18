@@ -81,7 +81,7 @@
 <p align="left">
 <a href="https://x.com/Yoi_470?t=VKMkZroGeyozpZ4uxwQaeg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoi_470" height="60" width="80" /></a>
 <a href="https://www.instagram.com/y0i473?igsh=a21oM3NmdG5neHRo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOI" height="60" width="80" /></a>
-<a href="https://discord.com/invite/a53EUhhH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="60" width="80" /></a>
+<a href="https://discord.gg/M53tmWs3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="60" width="80" /></a>
 </p>
 
 <div align="center">
