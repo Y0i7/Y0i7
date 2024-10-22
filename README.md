@@ -10,7 +10,7 @@
 <br>
 <div>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=y0i7&show_icons=true&theme=radical&count_private=true" alt="y0i7" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0i7&show_icons=true&theme=radical&count_private=true" alt="y0i7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0i7&show_icons=true&theme=radical&count_private=true&layout=compact" alt="y0i7" /></p>
 <br>
 </div>
 <div align="center">
