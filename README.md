@@ -1,24 +1,31 @@
-[![MasterHead](https://d.furaffinity.net/art/maokaw/1633285113/1633285102.maokaw_fae_big.gif)](https://discord.com/invite/pqfvqh44)
-<h1 align="center">Hi ✨❤, I'm Yoi</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d8/0a/2e/d80a2e746710f1d83cf6dc409566ac7c.gif" alt="Flag of Colombia" width="800" height="400"/>
+</p>
+
+<h1 align="center">🐾Hi, I'm Yoi🔥</h1>
 <h3 align="center">🇨🇴 Proudly from Colombia!</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Flag of Colombia" width="200" height="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Flag of Colombia" width="250" height="120"/>
 </p>
-<br><br>
+<br>
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
 <h2 align="center">MY STATS:</h2>
 <br>
-<div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=y0i7&show_icons=true&theme=radical&count_private=true" alt="y0i7" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0i7&show_icons=true&theme=radical&count_private=true&layout=compact" alt="y0i7" /></p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=y0i7&show_icons=true&theme=radical&count_private=true" alt="y0i7" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0i7&show_icons=true&theme=radical&count_private=true&layout=compact" alt="y0i7" />
+    </td>
+  </tr>
+</table>
 <br>
-</div>
-<div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=y0i7&show_icons=true&theme=radical" alt="y0i7" /></p>
-</div>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7&show_icons=true&theme=radical" alt="y0i7" /></a> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=y0i7&show_icons=true&theme=radical" alt="y0i7" /></p>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7&show_icons=true&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="y0i7" /></a> </p>
 <br>
 <br>
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
