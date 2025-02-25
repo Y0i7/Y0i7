@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d8/0a/2e/d80a2e746710f1d83cf6dc409566ac7c.gif" alt="Flag of Colombia" width="800" height="400"/>
+  <a href="https://www.google.com/search?q=tiger&oq=tiger&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhAuGEDSAQgyNDU4ajBqMagCCLACAQ&sourceid=chrome&ie=UTF-8" target="_blank">
+    <img src="https://i.pinimg.com/originals/d8/0a/2e/d80a2e746710f1d83cf6dc409566ac7c.gif" alt="Flag of Colombia" width="800" height="400"/>
+  </a>
 </p>
+
 
 <h1 align="center">🐾Hi, I'm Yoi🔥</h1>
 <h3 align="center">🇨🇴 Proudly from Colombia!</h3>
@@ -87,8 +90,11 @@
 </p>
 
 <div align="center">
-  <img src="https://d.furaffinity.net/art/gfur/1522477922/1522477922.gfur_gfurrainbow.jpg" alt="Logo de Furry" width="200"/>
+  <a href="https://www.google.com/search?q=furry+Fandom&oq=furry+Fandom&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMjgyMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank">
+    <img src="https://d.furaffinity.net/art/gfur/1522477922/1522477922.gfur_gfurrainbow.jpg" alt="Logo de Furry" width="200"/>
+  </a>
 </div>
+
 
 <h3 align="right">Support Me ❤:</h3>
 <p align="right">
