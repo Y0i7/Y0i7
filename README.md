@@ -45,9 +45,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
   </a> 
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="80" height="80"/> 
-  </a> 
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="80" height="80"/> 
+</a> 
 </p>
 <br>
 
