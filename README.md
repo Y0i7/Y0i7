@@ -4,14 +4,35 @@
   </a>
 </p>
 
-
-<h1 align="center">🐾Hi, I'm Yoi🔥</h1>
-<h3 align="center">🇨🇴 Proudly from Colombia!</h3>
-<p align="center">
-  <a href="https://www.google.com/search?q=Colombia&oq=Colombia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMzg3MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Flag of Colombia" width="250" height="120"/>
-  </a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.google.com/search?q=Colombia&oq=Colombia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMzg3MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Flag of Colombia" width="250" height="120"/>
+    </td>
+    <td>
+      <h2 align="center">🐾Hi, I'm Orlando (Yoi)🔥</h2>
+      <p>A Proudly Java-Springboot and Js-React Developer from Colombia.</p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h2 align="center">My Skills</h2>
+    </td>
+    <td>
+      <p align="center"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
+  </a> 
 </p>
+    </td>
+  </tr>
+</table>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7&show_icons=true&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="y0i7" /></a> </p>
 <br>
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
 <h2 align="center">MY STATS:</h2>
@@ -29,9 +50,6 @@
 </table>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=y0i7&show_icons=true&theme=radical" alt="y0i7" /></p>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7&show_icons=true&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="y0i7" /></a> </p>
-<br>
 <br>
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
 <h2 align="center">MY TOOLS:</h2>
@@ -99,6 +117,3 @@
 <hr style="margin-top: 20px;">
 
 <img align="center" alt="Coding" width="1010" height="200" src="https://truecolorsunited.org/wp-content/uploads/The-Matrix-code-animated-1.gif">
-
-
-
