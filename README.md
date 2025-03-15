@@ -78,7 +78,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/orlando-yepes-espitia-321727312" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="50" width="50" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-6qJIbbEhrdlscdsIRu4CXCFzm_vCNYGUA&s" alt="LinkedIn" height="50" width="50" />
 </a>
 </p>
 
