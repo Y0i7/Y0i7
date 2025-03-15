@@ -22,17 +22,29 @@
     </td>
     <td>
       <p align="center"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
-  </a> 
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"/> 
+</a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
+  </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+  </a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="50" height="50"/> 
+</a>
 </p>
     </td>
   </tr>
 </table>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0i7&show_icons=true&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="y0i7" /></a> </p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=y0i7&show_icons=true&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=-1&titles=Commits,Stars,Repositories,PullRequest" alt="y0i7" />
+  </a> 
+</p>
+
 <br>
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
 <h2 align="center">MY STATS:</h2>
@@ -50,45 +62,6 @@
 </table>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=y0i7&show_icons=true&theme=radical" alt="y0i7" /></p>
-<br>
-<hr style="border: 3px solid #FFA500; margin: 20px 0;">
-<h2 align="center">MY TOOLS:</h2>
-<br>
-
-<h3 align="center">Languages 🦾:</h3>
-<p align="center"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
-  </a> 
-</p>
-<br>
-
-<h3 align="center">Frameworks 🛠️:</h3>
-<p align="center">
- <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="80" height="80"/> 
-</a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> 
-  </a>
-</p>
-<br>
-
-<h3 align="center">Databases 💾:</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
-  </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="80" height="80"/> 
-</a>
-
-</p>
-
-<br>
 <br>
 <hr style="border: 3px solid #FFA500; margin: 20px 0;">
 <h2 align="center">About Me</h2>
