@@ -99,14 +99,6 @@
 <a href="https://www.instagram.com/y0i473?igsh=a21oM3NmdG5neHRo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOI" height="60" width="80" /></a>
 <a href="https://discord.gg/M53tmWs3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="60" width="80" /></a>
 </p>
-
-<div align="center">
-  <a href="https://www.google.com/search?q=furry+Fandom&oq=furry+Fandom&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMjgyMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank">
-    <img src="https://d.furaffinity.net/art/gfur/1522477922/1522477922.gfur_gfurrainbow.jpg" alt="Logo de Furry" width="200"/>
-  </a>
-</div>
-
-
 <h3 align="right">Support Me ❤:</h3>
 <p align="right">
   <a href="https://buymeacoffee.com/oryees27s">
