@@ -69,14 +69,23 @@
 
 <h3 align="left">Connect with me📧:</h3>
 <p align="left">
-<a href="https://x.com/Yoi_470?t=VKMkZroGeyozpZ4uxwQaeg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoi_470" height="60" width="80" /></a>
-<a href="https://www.instagram.com/y0i473?igsh=a21oM3NmdG5neHRo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOI" height="60" width="80" /></a>
-<a href="https://discord.gg/M53tmWs3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoi_tm_61057" height="60" width="80" /></a>
+<a href="https://x.com/Yoi_470?t=VKMkZroGeyozpZ4uxwQaeg&s=09" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoi_470" height="50" width="50" />
+</a>
+
+<a href="https://www.instagram.com/y0ito12?igsh=a21oM3NmdG5neHRo" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOI" height="50" width="50" />
+</a>
+
+<a href="https://www.linkedin.com/in/orlando-yepes-espitia-321727312" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="50" width="50" />
+</a>
 </p>
+
 <h3 align="right">Support Me ❤:</h3>
 <p align="right">
   <a href="https://buymeacoffee.com/oryees27s">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="200" alt="Buy Me a Coffee" />
   </a>
 </p>
 
