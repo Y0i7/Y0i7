@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.google.com/search?q=tiger&oq=tiger&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhAuGEDSAQgyNDU4ajBqMagCCLACAQ&sourceid=chrome&ie=UTF-8" target="_blank">
-    <img src="https://giffiles.alphacoders.com/194/19493.gif" alt="Flag of Colombia" width="800" height="400"/>
+    <img src="https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif" alt="Flag of Colombia" width="800" height="400"/>
   </a>
 </p>
 
