@@ -73,7 +73,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoi_470" height="50" width="50" />
 </a>
 
-<a href="https://www.instagram.com/y0ito12?igsh=a21oM3NmdG5neHRo" target="blank">
+<a href="https://www.instagram.com/0ry3co?igsh=a21oM3NmdG5neHRo" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOI" height="50" width="50" />
 </a>
 
